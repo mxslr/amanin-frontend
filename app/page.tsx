@@ -218,12 +218,12 @@ useEffect(() => {
   if (!mounted) return null;
 
   return (
-    <main className="relative min-h-screen bg-white dark:bg-black text-black dark:text-white font-sans selection:bg-gray-200 dark:selection:bg-zinc-800 overflow-x-hidden pb-32 transition-colors duration-500 z-0">
+    <main className="relative min-h-[100dvh] bg-white dark:bg-black text-black dark:text-white font-sans selection:bg-gray-200 dark:selection:bg-zinc-800 overflow-x-hidden pb-32 transition-colors duration-500 z-0">
       
       {/* ── SPLASH SCREEN ────────────────────── */}
       {showSplash && (
         <motion.div
-          className="fixed inset-0 z-[9999] flex items-center justify-center bg-white dark:bg-black transition-colors duration-500"
+          className="fixed inset-0 z-9999 flex items-center justify-center bg-white dark:bg-black transition-colors duration-500"
           animate={splashExiting ? { clipPath: ['circle(150% at 50% 50%)', 'circle(0% at 50% 50%)'] } : { clipPath: 'circle(150% at 50% 50%)' }}
           transition={splashExiting ? { duration: 0.9, ease: [0.76, 0, 0.24, 1] } : {}}
         >
