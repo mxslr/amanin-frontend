@@ -175,7 +175,11 @@ useEffect(() => {
     formData.append('file', file);
 
     try {
-      const response = await fetch('http://localhost:8000/api/detect', { method: 'POST', body: formData });
+      // Contoh:
+      const response = await fetch('https://mxslr-amanin-api.hf.space/api/detect', { 
+          method: 'POST', 
+          body: formData 
+      });
       const data = await response.json();
       if (response.ok && data.status === 'success') {
         setCurrentResult(data);
