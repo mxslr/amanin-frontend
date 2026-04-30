@@ -69,18 +69,18 @@ const TEAM_MEMBERS = [
   {
     name: "Bagas Haris Saputro",
     role: "Ketua",
-    desc: "Main ketua - ketuaan",
-    image: "/team/member-1.jpeg", 
-    instagram: "https://instagram.com/username_ig1",
-    linkedin: "https://linkedin.com/in/username_li1"
+    desc: "Menentukan arah besar proyek dan mengambil keputusan krusial",
+    image: "/team/member-1.jpeg",
+    instagram: "https://www.instagram.com/bagasharis6_?igsh=bm45ODI2cWQzNWJo&utm_source=qr",
+    linkedin: "https://www.linkedin.com/in/bagasharis/"
   },
   {
     name: "Muhamad Davi Ardian",
     role: "Sekretaris & Bendahara",
-    desc: "Tukang ketik",
+    desc: "Mengelola surat-menyurat, proposal, dan pengarsipan data/dokumentasi.",
     image: "/team/member-2.jpg",
-    instagram: "https://instagram.com/username_ig2",
-    linkedin: "https://linkedin.com/in/username_li2"
+    instagram: "https://www.instagram.com/dviardian/",
+    linkedin: "https://www.linkedin.com/in/daviardian/"
   },
   {
     name: "Marshall Rasendria Mahendra",
@@ -93,42 +93,42 @@ const TEAM_MEMBERS = [
   {
     name: "Naufal Athalino",
     role: "Divisi Humas",
-    desc: "Muterin desa",
+    desc: "Membangun hubungan dengan pihak-pihak terkait",
     image: "/team/member-4.jpeg",
-    instagram: "https://instagram.com/username_ig4",
-    linkedin: "https://linkedin.com/in/username_li4"
+    instagram: "https://www.instagram.com/athalino?igsh=OGhqdDhyeGw0Y3d4&utm_source=qr",
+    linkedin: "https://www.linkedin.com/in/naufalathalinobakti/"
   },
   {
     name: "Aurellia Verly",
     role: "Divisi Acara",
-    desc: "Jadi MC",
+    desc: "Menyusun konsep edukasi dan mengatur jadwal kegiatan.",
     image: "/team/member-5.jpeg",
-    instagram: "https://instagram.com/username_ig5",
-    linkedin: "https://linkedin.com/in/username_li5"
+    instagram: "https://www.instagram.com/aurelliavrly?igsh=Z3hzaXRpZ2NwdDNy",
+    linkedin: "https://www.linkedin.com/in/aurelliaverly/"
   },
   {
-    name: "M. Rizki Aulia ",
-    role: "Divisi PDD & Logistik",
-    desc: "Bikin feed ig sama tukang foto",
+    name: "M. Rizki Aulia",
+    role: "Divisi Acara",
+    desc: "Memastikan materi yang disampaikan mudah diterima masyarakat awam.",
     image: "/team/member-6.jpg",
-    instagram: "https://instagram.com/username_ig6",
-    linkedin: "https://linkedin.com/in/username_li6"
+    instagram: "https://www.instagram.com/mr_awsz_",
+    linkedin: "https://www.linkedin.com/in/mrawsz/"
   },
   {
     name: "Cheisya Valda W",
     role: "Divisi Pemateri",
-    desc: "Bikin materi",
+    desc: "Menjelaskan materi dengan bahasa yang sederhana, namun tetap akurat.",
     image: "/team/member-7.jpg",
-    instagram: "https://instagram.com/username_ig7",
-    linkedin: "https://linkedin.com/in/username_li7"
+    instagram: "",
+    linkedin: "https://www.linkedin.com/in/cheisyavalda/"
   },
   {
     name: "Setyorini Okviana",
     role: "Divisi Pemateri",
-    desc: "Bikin materi",
+    desc: "Melakukan simulasi cara membedakan mana konten asli dan mana konten hasil manipulasi AI secara langsung.",
     image: "/team/member-8.jpeg",
-    instagram: "https://instagram.com/username_ig8",
-    linkedin: "https://linkedin.com/in/username_li8"
+    instagram: "https://www.instagram.com/setyoriniokviana_?igsh=ZXN5dm1peGhraDll",
+    linkedin: "https://www.linkedin.com/in/setyoriniokviana"
   },
 ];
 
